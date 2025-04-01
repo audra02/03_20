@@ -1,0 +1,6 @@
+name: variant_calling
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - bioconda::ensembl-vep=113.3
